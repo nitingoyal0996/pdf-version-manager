@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UserName</key>
+    <string>ngoyal</string>
+    <key>GroupName</key>
+    <string>resumemanagers</string>
+
+    <key>Label</key>
+    <string>com.user.pdfversionmanager</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/ngoyal/Personal/Develop/AutoFileVersion/venv/bin/python3</string>
+        <string>/Users/ngoyal/Personal/Develop/AutoFileVersion/manager.py</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardErrorPath</key>
+    <string>/Users/ngoyal/Library/Logs/pdf_version_manager.err</string>
+    <key>StandardOutPath</key>
+    <string>/Users/ngoyal/Library/Logs/pdf_version_manager.out</string>
+</dict>
+</plist>

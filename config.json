@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "~/Downloads/resume",
+            "base_filenames": [
+                {"name": "Nitin_Goyal_resume.pdf"}
+            ]
+        },
+        {
+            "path": "~/Downloads/resume frontend",
+            "base_filenames": [
+                {"name": "Nitin_Goyal_resume.pdf"}
+            ]
+        }
+    ]
+}
