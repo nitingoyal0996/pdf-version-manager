@@ -1,7 +1,7 @@
+```bash
 Author: Nitin Goyal
 Co-author: Claud 3.7
 
-```bash
 # create environment
 python3 -m venv venv && source venv/bin/activate && python3 -m pip install watchdog
 
